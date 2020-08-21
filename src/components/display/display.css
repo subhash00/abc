@@ -1,0 +1,11 @@
+.mainDisplay {
+    width:500px;
+    height:100px;
+    text-align:right;
+    background-color:#808080;
+}
+.inputField {
+    font-size:60px;
+    color:fuchsia;
+    font-weight:500;
+}
