@@ -11,6 +11,9 @@ Youtube_video
 " target="_blank"><img src="http://img.youtube.com/vi/d4yc6Xmwsyk/0.jpg" 
 alt="simple calculator" width="480" height="350" border="10" /></a>
 
+# Website
+Check the website [here](https://subhash00.github.io/simplecalculator/)
+
 # Installation
 Install the dependencies
 ```sh
